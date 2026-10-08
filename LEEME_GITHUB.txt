@@ -1,0 +1,16 @@
+PROGRAMA DE DISCURSOS - ARCHIVOS PARA GITHUB PAGES
+
+Sube TODO el contenido de esta carpeta a la RAIZ del repositorio.
+
+Debe quedar así:
+index.html
+manifest.webmanifest
+sw.js
+LEEME_GITHUB.txt
+icons/icon-192.png
+icons/icon-512.png
+
+IMPORTANTE:
+- No subas archivos JSON de copias de seguridad al repositorio.
+- No subas datos personales de la aplicación.
+- GitHub Pages debe configurarse para publicar desde la rama principal (main), carpeta / (root).
